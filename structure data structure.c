@@ -21,6 +21,7 @@ int main() {
     printf("Displaying Information:\n\n");
 
     // displaying information
+    for(i=0; i<5; ++i)
      {
         printf("\nRoll number: %d\n", i + 1);
         printf("First name: ");
